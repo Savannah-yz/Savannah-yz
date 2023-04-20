@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# :wave: Hi the world! I am interested in learning Machine learning! I am working on how to use Github! My favorite hobby is watching movie! I like drawing cute pictures！
 <!--
 **Savannah-yz/Savannah-yz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
