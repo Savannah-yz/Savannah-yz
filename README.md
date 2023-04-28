@@ -2,7 +2,7 @@
 - 🔭 I’m interested in learning Machine learning!
 - 🌱 I’m currently learning computer organization and design!
 - 👯 I’m looking for friends to study together!
-# :wave: Hi the world! I am interested in learning Machine learning! I am working on how to use Github! My favorite hobby is watching movie! I like drawing cute pictures！
+# :wave: Hi the world! I am interested in learning Computer Science! I am working on how to use Github! My favorite hobby is watching movie! I like drawing cute pictures！
 <!--
 **Savannah-yz/Savannah-yz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
